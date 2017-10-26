@@ -1,4 +1,5 @@
 #!/usr/bin/env python2
+# with code from @Abbotta4's Pointsbot
 import logging,ConfigParser,io
 from telegram.ext import Updater,MessageHandler,CommandHandler,Filters,BaseFilter
 
